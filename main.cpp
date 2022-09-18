@@ -1,4 +1,5 @@
 /* Yanin Niramai 260983558 */
+/*yanin.niramai@mail.mcgill.ca*/
 #include<iostream>
 using namespace std;
 int main ()
